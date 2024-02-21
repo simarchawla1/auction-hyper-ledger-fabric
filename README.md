@@ -408,3 +408,10 @@ You can then navigate to the test network directory and bring down the network:
 cd ../../test-network/
 ./network.sh down
 ````
+
+TEAM
+Simarjeet Singh Chawla- 101474972
+Altaf Ali Ahmed Ali
+Amaan Vahora
+Sufiyan Memon
+Muhammed Anis Vahora
